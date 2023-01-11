@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "inclassweek4",
+            "connectString": "postgres://reuohtrh:Oi_2u-diGj3vXaVdlnIvXQZ2ZFOymJ2B@batyr.db.elephantsql.com/reuohtrh"
+        }
+    ]
+}
